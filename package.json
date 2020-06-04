@@ -1,0 +1,24 @@
+{
+  "name": "badumn",
+  "version": "1.0.0",
+  "description": "A well-typed joke",
+  "main": "dist/badumn.js",
+  "types": "dist/badumn.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gewoonwoutje/badumn.git"
+  },
+  "keywords": [
+    "badumn",
+    "ts",
+    "badoem",
+    "pats",
+    "badum"
+  ],
+  "author": "gewoonwoutje",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gewoonwoutje/badumn/issues"
+  },
+  "homepage": "https://github.com/gewoonwoutje/badumn#readme"
+}
