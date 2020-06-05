@@ -1,6 +1,6 @@
 # badumn
 
-A well-typed joke.
+A well-typed post-punchline.
 
 ## Example
 
