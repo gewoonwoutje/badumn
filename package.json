@@ -1,6 +1,6 @@
 {
   "name": "badumn",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A well-typed joke",
   "main": "dist/badumn.js",
   "types": "dist/badumn.d.ts",
@@ -9,6 +9,8 @@
     "url": "git+https://github.com/gewoonwoutje/badumn.git"
   },
   "keywords": [
+    "padumn",
+    "padumn-ts",
     "badumn",
     "ts",
     "badoem",
