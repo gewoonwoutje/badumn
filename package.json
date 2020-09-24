@@ -1,7 +1,7 @@
 {
   "name": "badumn",
-  "version": "1.0.1",
-  "description": "A well-typed joke",
+  "version": "1.0.2",
+  "description": "A well-typed post-punchline",
   "main": "dist/badumn.js",
   "types": "dist/badumn.d.ts",
   "repository": {
